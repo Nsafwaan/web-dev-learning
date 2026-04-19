@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+#card{
+    margin: 10px;
+    padding: 10px;
+background-color: #a25bdd;
+color: rgb(102, 14, 14);
+width: 300px;
+border: 2px solid blue;
+}
+h1{
+    color: black;
+    font-size: 30px;
+}
+p{
+    font-size: 15px;
+    padding: 5px;
+}
+.first{
+    padding: 5px;
+}

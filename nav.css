@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    height: 38px;
+    /* background-color: chocolate; */
+    /* border: 2px solid black; */
+    /* border-radius:  5px 5px 20px 20px; */
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+ul{
+    padding-right: 50px;
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    position: absolute;
+    right: 50px;
+    
+}
+h1{
+
+    position: absolute;
+    left: 30px;
+}

@@ -4,42 +4,5 @@
   box-sizing: border-box;
 }
 header {
-  background-color: #95c458;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  height: 50px;
-}
-#selection {
-  display: flex;
-  list-style: none;
-  gap: 30px;
-  position: relative;
-  right: 30px;
-}
-#find {
-  border: 2px solid black;
-  border-radius: 10px;
-  position: relative;
-  left: 200px;
-}
-#logo {
-  font-size: 20px;
-  padding-left: 10px;
-}
-.nav-list {
-  font-weight: 700;
-}
-#main{
-    width: 50%;
-}
-#second-heading{
-    margin: 20px;
-}
-#potos{
-    border: 2px solid black;
-}
-#arrange{
-    display: flex;
-    
+  
 }
